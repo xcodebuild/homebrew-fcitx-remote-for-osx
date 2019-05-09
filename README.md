@@ -1,12 +1,12 @@
 # homebrew-fcitx-remote-for-osx
 
-brew tap for https://github.com/CodeFalling/fcitx-remote-for-osx
+brew tap for https://github.com/dangxuandev/fcitx-remote-for-osx
 
 # Usage
 
 ```shell
-brew tap codefalling/fcitx-remote-for-osx
-brew install codefalling/fcitx-remote-for-osx/fcitx-remote-for-osx --with-baidu-pinyin
+brew tap dangxuandev/fcitx-remote-for-osx
+brew install dangxuandev/fcitx-remote-for-osx/fcitx-remote-for-osx --with-input-mothod=osx-pinyin
 ```
 
-You can use `brew info codefalling/fcitx-remote-for-osx/fcitx-remote-for-osx` to get input method support info
+You can use `brew info dangxuandev/fcitx-remote-for-osx/fcitx-remote-for-osx` to get input method support info
